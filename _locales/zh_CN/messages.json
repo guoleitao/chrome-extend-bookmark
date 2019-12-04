@@ -1,0 +1,8 @@
+{
+  "pluginName": {"message": "合并书签插件"},
+  "pluginDesc": {"message": "这是一个用于合并重复书签的插件"},
+  "alertMsg": {"message": "名称和链接不能为空！"},
+  "dialogTitleMsg": {"message": "确认合并书签？"},
+  "rootNodeTitle": {"message": "combition_新书签"},
+  "combitionBtnText": {"message": "点击合并"}
+}
